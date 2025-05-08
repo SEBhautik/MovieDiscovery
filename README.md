@@ -20,8 +20,8 @@ A simple iOS app that lets users search and discover movies using [The Movie Dat
 - UIKit + Storyboards
 - MVVM Design Pattern
 - URLSession for networking
-- SDWebImage
-- IQKeyboardManagerSwift
+- SPM - SDWebImage
+- SPM - IQKeyboardManagerSwift
 - XCTest for unit testing
 
 ## 📸 Screenshots
@@ -29,10 +29,3 @@ A simple iOS app that lets users search and discover movies using [The Movie Dat
 | Movie List | Movie Details |
 |------------|---------------|
 | ![Movie List](movie_list.png) | ![Movie Detail](movie_detail.png) |
-
-## 🔧 Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/MovieDiscoveryApp.git
-   cd MovieDiscoveryApp
